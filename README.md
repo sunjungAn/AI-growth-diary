@@ -6,6 +6,13 @@ This is a folder where I organized the folders that I wrote while studying AI.
 
 Introduction to Machine Learning(https://github.com/sunjungAn/Machine_Learning)
 
+Digital signal processing
+
+Deep Learning
+
+Data modeling and mining
+
+
 
 **Personal Project**
 -----------------------------------------------------------------------------------------
