@@ -3,9 +3,9 @@ This is a folder where I organized the folders that I wrote while studying AI.
 
 **activities**
 ------------------------------------------------------------------------------------
-AI Multimedia Security Lab
+AI Multimedia Security Lab (2021.03.01 ~ ing)
 
-Object recognition exercise - ()
+Object recognition exercise - (2021.03.01 ~ ing)
 
 **Conceptual Learning**
 --------------------------------------------------------------------------------------
