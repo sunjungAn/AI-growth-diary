@@ -1,6 +1,12 @@
 # AI-growth-diary
 This is a folder where I organized the folders that I wrote while studying AI. 
 
+**activities**
+------------------------------------------------------------------------------------
+AI Multimedia Security Lab
+
+Object recognition exercise - ()
+
 **Conceptual Learning**
 --------------------------------------------------------------------------------------
 
@@ -18,7 +24,6 @@ Data modeling and mining
 -----------------------------------------------------------------------------------------
 2021 winter nlp basic project - catter robot(https://github.com/sunjungAn/chatter-robot)
 
-Object recognition exercise - ()
 
 
 
