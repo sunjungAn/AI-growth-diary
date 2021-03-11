@@ -8,7 +8,7 @@ Introduction to Machine Learning(https://github.com/sunjungAn/Machine_Learning)
 
 Digital signal processing
 
-Deep Learning
+Deep Learning(https://github.com/sunjungAn/Deep_Learning)
 
 Data modeling and mining
 
