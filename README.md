@@ -17,6 +17,7 @@ Data modeling and mining
 **Personal Project**
 -----------------------------------------------------------------------------------------
 2021 winter nlp basic project - catter robot(https://github.com/sunjungAn/chatter-robot)
+
 Object recognition exercise - ()
 
 
