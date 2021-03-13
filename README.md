@@ -5,7 +5,7 @@ This is a folder where I organized the folders that I wrote while studying AI.
 ------------------------------------------------------------------------------------
 AI Multimedia Security Lab (2021.03.01 ~ ing)
 
-Object recognition exercise(https://github.com/sunjungAn/Opencv_practice) - (2021.03.01 ~ ing)
+openCV exercise(https://github.com/sunjungAn/Opencv_practice) - (2021.03.01 ~ ing)
 
 **Conceptual Learning**
 --------------------------------------------------------------------------------------
