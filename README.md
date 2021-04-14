@@ -35,4 +35,5 @@ Data modeling and mining
 
 2021 Winter Small Project(https://github.com/sunjungAn/face_Classifier)
 
+2021 2021-1 SMU_AI SW 공모전 출품 Ninja_Turtle()
 
