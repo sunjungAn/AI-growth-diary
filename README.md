@@ -7,6 +7,7 @@ This is a folder where I organized the folders that I wrote while studying AI.
 
 ![image](https://user-images.githubusercontent.com/55094745/124410195-ec9bff00-dd84-11eb-9b9d-4178150d52d1.png)
 
+Paper Source Camera Identification (Forensics) (https://github.com/sunjungAn/Source-Camera-Identification)
 
 **activities**
 ------------------------------------------------------------------------------------
